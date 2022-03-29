@@ -11,3 +11,10 @@
 
 # Flutter
 - Bloc : https://www.netguru.com/blog/flutter-bloc
+
+
+
+
+# DSA
+
+- Dynamic programming : https://www.youtube.com/watch?v=1zBbqtNqNVc
