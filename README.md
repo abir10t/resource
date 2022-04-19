@@ -21,3 +21,8 @@
 
 - Dynamic programming : https://www.youtube.com/watch?v=1zBbqtNqNVc
 - All list & resource : https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation
+
+
+# recursion
+
+- https://codedrills.io/problems
